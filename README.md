@@ -23,7 +23,12 @@ This project investigates factors influencing Airbnb listing prices in Seattle. 
     * Analyze pricing trends across different locations.
     * Examine the influence of textual data (descriptions & reviews).
   **Sub-Problem 1: What are the features/facilities/ammenities of a property that affect its price?:**
+
+
 ![EDA](https://github.com/msmohankumar/Disaster_Rescue_App/assets/153971484/1a0188e6-980a-42b3-93a3-1b9c1ffbc2fb)
+
+![EDA2](https://github.com/msmohankumar/Disaster_Rescue_App/assets/153971484/d3a68b13-b210-41bd-8d22-e1e5c0d1d1d9)
+
 
 
 2. **Machine Learning Models:**
@@ -34,6 +39,8 @@ This project investigates factors influencing Airbnb listing prices in Seattle. 
     *  XGBoost, CatBoost,
     *  Ridge Regression,
     *  and Lasso Regression.
+  
+![Random forest regression](https://github.com/msmohankumar/Disaster_Rescue_App/assets/153971484/34adb9c1-d5ed-4cc9-9fa2-c1eee323f2e6)
 
 3. **Feature Importance Analysis:**
     * Use TreeInterpreter to understand the contribution of each feature towards listing price.
