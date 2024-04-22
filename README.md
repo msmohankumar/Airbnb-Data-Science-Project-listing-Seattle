@@ -45,22 +45,22 @@ This project investigates factors influencing Airbnb listing prices in Seattle. 
 
 **Project Structure:**
 
-Airbnb-Data-Science-Project/
-├── catboost_info/        # CatBoost model files
-│  └── ...
-├── data/
-│  ├── calendar.zip        # Calendar data from Kaggle
-│  ├── listings.zip        # Listings data from Kaggle
-│  ├── polarity_reviews.zip  # Polarity results (specific to this project)
-│  └── reviews.zip          # Reviews data from Kaggle
-├── notebooks/
-│  ├── Exploratory_Analysis_Problem_1.ipynb  # Feature/amenity analysis
-│  ├── Exploratory_Analysis_Problem_2.ipynb  # Location analysis
-│  ├── Exploratory_Analysis_Problem_3.ipynb  # Textual data analysis
-│  └── Machine_Learning_Models.ipynb         # Machine learning models
-├── README.md              # Project documentation
-├── LICENSE                # License information
-└── requirements.txt       # Required Python packages
+* Airbnb-Data-Science-Project/
+* ├── catboost_info/        # CatBoost model files
+* │  └── ...
+* ├── data/
+* │  ├── calendar.zip        # Calendar data from Kaggle
+* │  ├── listings.zip        # Listings data from Kaggle
+* │  ├── polarity_reviews.zip  # Polarity results (specific to this project)
+* │  └── reviews.zip          # Reviews data from Kaggle
+* ├── notebooks/
+* │  ├── Exploratory_Analysis_Problem_1.ipynb  # Feature/amenity analysis
+* │  ├── Exploratory_Analysis_Problem_2.ipynb  # Location analysis
+* │  ├── Exploratory_Analysis_Problem_3.ipynb  # Textual data analysis
+* │  └── Machine_Learning_Models.ipynb         # Machine learning models
+* ├── README.md              # Project documentation
+* ├── LICENSE                # License information
+* └── requirements.txt       # Required Python packages
 
 **Run the Analysis:**
 
